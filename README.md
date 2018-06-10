@@ -1,2 +1,2 @@
 # dn-lang.github.io
-A
+A website for the Dynamite programming language
